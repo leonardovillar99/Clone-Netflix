@@ -5,5 +5,6 @@ Tecnologias usadas:
 - PostgreSQL
 - Sequelize
 - Typescript
+- Javascript
 
 App em construção, ainda terão mais atualizações ao decorrer do mês.
